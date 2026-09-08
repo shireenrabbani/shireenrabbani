@@ -5,4 +5,4 @@ What I bring from data engineering into AI systems: SLA-driven pipeline design, 
 
 🔭 Currently building: a RAG assistant with a real eval harness (Ragas) and a tool-calling SQL agent - see pinned repos
 🛠️ Stack: Python, SQL, PySpark, Databricks, pgvector, LangChain/LangGraph, Claude & OpenAI APIs
-📫 Reach me: shireenrabbani@gmail.com · LinkedIn
+📫 Reach me: shireenrabbani@gmail.com · [LinkedIn](https://linkedin.com/in/shireenr)
